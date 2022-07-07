@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Tejas Appana
+### Meet Tejas Appana
 - 👀 I’m interested in basketball, biking, Esports, music production, camping/hiking
 - 🌱 I’m currently learning data science and machine learning for financial analysis
-- 💞️ I’m looking to collaborate on any quant related projects, such as developing financial and mathetmatical models and algorithmic trading.
+- 💞️ I’m looking to collaborate on any quant related projects, such as developing
+financial and mathetmatical models and algorithmic trading.
 - 📫 You can check out my LinkedIn at https://www.linkedin.com/in/tejas-appana/
 
 <!---
