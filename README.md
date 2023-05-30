@@ -1,7 +1,7 @@
 ### Meet Tejas Appana
 - ✔  I'm an Eagle Scout, 3rd Degree Black Belt, and on the Dean's List at Stevens Institute of Technology
 - 👀 I’m interested in basketball, camping, biking, skiing, card games, Esports, music theory & production 
-- 🌱 I’m currently learning data science and machine learning for financial analysis
+- 🌱 I’m currently getting more comfortable with longer SQL queries and working with big data
 - 💞️ I’m looking to collaborate on any quant related projects, such as developing financial factor models and algo trading strategies.
 - 📫 You can check out my LinkedIn at https://www.linkedin.com/in/tejas-appana/
 
